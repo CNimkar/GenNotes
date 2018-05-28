@@ -1,10 +1,10 @@
 # GenNotes
 
 Uses: 
-ViewModels from android.arch.lifecycle.ViewModel, 
-LiveData from android.arch.lifecycle.LiveData<T>, 
-Room Libary
-Butterknife libary
+1. ViewModels from android.arch.lifecycle.ViewModel, 
+2. LiveData from android.arch.lifecycle.LiveData<T>, 
+3. Room Libary, DAO(Data Access Objects)
+4. Butterknife libary
 
 GenNotes is a generic note taking app created to study the Artchitectural Components in Android system. 
 David Gassner's course on LinkedIn Learning demonstrating the process was very useful for building this app.
